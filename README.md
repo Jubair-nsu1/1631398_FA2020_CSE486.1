@@ -21,7 +21,6 @@
 - [Introduction](#introduction)
 - [App Features](#app-features)
 - [Data Management](#data-management)
-- [Roadblocks](#roadblocks)
 
 </br></br>
 
