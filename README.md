@@ -122,17 +122,4 @@ For this app, no local storage has been used but it can be integrated later.
 ---
 
 
-## Roadblocks
-
-While working with the application, there were some roadblocks which slowed down the rate of work. However, the problems were solved gradually and were able to move forward. The roadblocks contains browsing images from mobile device and upload to firebase storage. The link of the image which is stored in the storage needs to be sent to cloud firestore. This took a lot of time and lastly it was solved using 'Glide' library. 
-
-Second roadblock was to fetch information from cloud firestore and to display in the CardView. At first, the data was not shown displayed correctly. This occurred because some of the model constructors was not matching with the Adapter's function.
-
-There was another problem which was the constant crashing of app during runtime. Later, the emulator was re-installed and then the problem was solved.
-
-
-</br></br>
-
----
-
 
